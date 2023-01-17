@@ -1,3 +1,3 @@
-# beeman
+# BEEMAN
 
 My first project
